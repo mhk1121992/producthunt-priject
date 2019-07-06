@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ef8d19b-2966-4887-bec3-1ca2a519846a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/templates/products/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/templates/products/detail.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/products/templates/products/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="29" selection-start-line="29" selection-end-line="30" />
+            <state relative-caret-position="322">
+              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -133,27 +133,6 @@
               <item name="producthunt-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="producthunt-project" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="producthunt-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="producthunt-project" type="462c0819:PsiDirectoryNode" />
-              <item name="producthunt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="producthunt-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="producthunt-project" type="462c0819:PsiDirectoryNode" />
-              <item name="producthunt" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="producthunt-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="producthunt-project" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="producthunt-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="producthunt-project" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -204,15 +183,16 @@
       <workItem from="1562245816713" duration="606000" />
       <workItem from="1562249984179" duration="3376000" />
       <workItem from="1562268309855" duration="1139000" />
-      <workItem from="1562403405062" duration="564000" />
+      <workItem from="1562403405062" duration="710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37349000" />
+    <option name="totallyTimeSpent" value="37495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29424307" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -410,8 +390,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/products/templates/products/detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="29" selection-start-line="29" selection-end-line="30" />
+        <state relative-caret-position="322">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
         </state>
       </provider>
     </entry>
